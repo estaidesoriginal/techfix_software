@@ -1,5 +1,5 @@
 # techfix_software
-software de indole academico parael caso ficticio techfix. Fullstack 3
+software de indole academico para el caso ficticio techfix. Fullstack 3
 
 Encargados de:
 - frontend, enrique
